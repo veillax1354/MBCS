@@ -41,7 +41,7 @@ http://{host}:{port}/controls/<control> | Controls that don't require an argumen
 http://{host}:{port}/controls/<control>/<arg> | Controls that do require arguments  
 
 ## Endpoints
-In case you want to access any track data
+In case you want to access any track data to build your own control dashboard  
 /get_track_info | GET, returns JSON => trackTitle: str, artist: str, playState: bool -- str, shuffle: bool,
                        repeat: int -- [0, 1, 2], album: str, year: str
 
