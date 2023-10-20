@@ -43,14 +43,10 @@ http://{host}:{port}/controls/<control>/<arg> | Controls that do require argumen
 ## Endpoints
 In case you want to access any track data to build your own control dashboard  
 /get_track_info | GET, returns JSON => trackTitle: str, artist: str, playState: bool -- str, shuffle: bool,
-                       repeat: int -- [0, 1, 2], album: str, year: str
-
-/album_art | GET, returns IMG => WEBP
-
-/favicon.ico | GET, returns IMG => ICO
-
-/placeholder.png | GET, returns IMG => PNG
-
-/lyrics | GET, returns JSON => lyrics: str
+                       repeat: int -- [0, 1, 2], album: str, year: str  
+/album_art | GET, returns IMG => WEBP  
+/favicon.ico | GET, returns IMG => ICO  
+/placeholder.png | GET, returns IMG => PNG  
+/lyrics | GET, returns JSON => lyrics: str  
 
 # Gallery 
