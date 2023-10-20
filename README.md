@@ -72,14 +72,14 @@ In case you want to access any track data to build your own control dashboard
 
 # Gallery 
 ## Control Dashboard
-Plain
+Plain  
 ![Dash 1](https://github.com/veillax1354/MBCS/blob/main/gallery/Dash1.png?raw=true)
 
-Snackbar Toast Pause
+Snackbar Toast Pause  
 ![Dash Snackbar Preview Pause](https://github.com/veillax1354/MBCS/blob/main/gallery/DashPause.png?raw=true)
 
-Sackbar Toast Play
+Sackbar Toast Play  
 ![Sackbar Toast Play](https://github.com/veillax1354/MBCS/blob/main/gallery/DashPlay.png?raw=true)
 
-OBS Stream Overlay/Widget
+OBS Stream Overlay/Widget  
 ![OBS Stream Overlay](https://github.com/veillax1354/MBCS/blob/main/gallery/Widget.png?raw=true)
