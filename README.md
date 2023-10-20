@@ -33,17 +33,12 @@ THIS IS CUSTOMIZABLE! FEEL FREE TO REPLACE
 
 
 ## Usage
-http://{host}:{port} | All endpoints and app routes
-
-http://{host}:{port}/widget | OBS Stream Overlay
-
-http://{host}:{port}/dashboard | Control Dashboard. Includes Play, Pause, Stop, Previous, Next, Shuffle, Repeat, Lyrics, Expanded Basic Track Info
-
-http://{host}:{port}/controls | Control routes
-
-http://{host}:{port}/controls/<control> | Controls that don't require an argument
-
-http://{host}:{port}/controls/<control>/<arg> | Controls that do require arguments
+http://{host}:{port} | All endpoints and app routes  
+http://{host}:{port}/widget | OBS Stream Overlay  
+http://{host}:{port}/dashboard | Control Dashboard. Includes Play, Pause, Stop, Previous, Next, Shuffle, Repeat, Lyrics, Expanded Basic Track Info  
+http://{host}:{port}/controls | Control routes  
+http://{host}:{port}/controls/<control> | Controls that don't require an argument  
+http://{host}:{port}/controls/<control>/<arg> | Controls that do require arguments  
 
 ## Endpoints
 In case you want to access any track data
