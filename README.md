@@ -4,13 +4,13 @@ Currently, it's at a state where it's mostly alright, but it still needs some fe
 
 # Getting Started
 ## Installing
-Included are a few things:
-MusicBeeIPC.dll
-MBCS.exe
-config.yml
-app.log
-placeholder.png
-favicon.ico
+Included are a few things:  
+MusicBeeIPC.dll  
+MBCS.exe  
+config.yml  
+app.log  
+placeholder.png  
+favicon.ico  
 
 MusicBeeIPC.dll is what allows the webserver to talk to MusicBee and get the current song data, as well as allowing it to control the song playback and shuffle/repeat states
 
